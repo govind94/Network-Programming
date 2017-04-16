@@ -17,6 +17,6 @@ Steps to run:
 	./client localhost 5500
 7) Now the server and client are connected.
 8) Execute the following commands:
-8a) BOUNCE This should be displayed
-8b) GET Test1.txt
-8c) EXIT
+* BOUNCE This should be displayed
+* GET Test1.txt
+* EXIT
