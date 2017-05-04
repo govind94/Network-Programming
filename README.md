@@ -1,10 +1,10 @@
 # Simple-Network-Programming
-Client - Server Connection :-
+### Client - Server Connection:
 
-Both the server and the client were run on:
+### Both the server and the client were run on:
 OS X Yosemite Version 10.10.5 ; Processor 1.3 GHz Intel Core i5
 
-Steps to run:
+### Steps to run:
 1) Download server1.c, client1.c, and the two text files attached and store them in a folder.
 2) Now, open two terminal windows (one for server, and one for client).
 3) In one window, compile server1.c by typing:
