@@ -1,4 +1,4 @@
-# Simple-Network-Programming
+# Network-Programming
 ### Client - Server Connection:
 
 ### Both the server and the client were run on:
